@@ -9,4 +9,4 @@ if matrix[1][1] == "0":
     print("possible")
 
 else:
-    print("impossible")
+    print("impossible")#
